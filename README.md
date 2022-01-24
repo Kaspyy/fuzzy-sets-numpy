@@ -6,3 +6,4 @@ This project is an implementation of fuzzy sets using Mamdani and Takagi-Sugeno 
 ## Technologies
 Project was created with:
 * Python 3
+* NumPy 1.22
