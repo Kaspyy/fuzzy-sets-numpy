@@ -4,5 +4,5 @@
 This project is an implementation of fuzzy sets using Mamdani and Takagi-Sugeno interface systems.
 	
 ## Technologies
-Project is created with:
+Project was created with:
 * Python 3
